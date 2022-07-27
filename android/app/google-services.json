@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095099872054",
+    "project_id": "sip-movil-9405d",
+    "storage_bucket": "sip-movil-9405d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095099872054:android:aeea3357a6ed0cadc03997",
+        "android_client_info": {
+          "package_name": "com.example.sip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095099872054-cb81eo5c4irimihefp8dhu6m803ksofm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAbHs4nU8uItwF75qVe4fP7uGKXH-AyzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095099872054-cb81eo5c4irimihefp8dhu6m803ksofm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

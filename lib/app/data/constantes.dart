@@ -1,0 +1,1 @@
+const BaseUrl = "http://lecsidesarrollos.com.co/corpocesar/public/";
